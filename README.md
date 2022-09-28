@@ -1,3 +1,5 @@
+<p align="center"><img src="./demo.gif"\></p>
+
 ### Download YOLOv4 Pre-trained Weights:
 
 yolov4.weights file: 
